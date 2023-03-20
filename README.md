@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/abc/Desktop/Farhan%20dextop%20folder/AnimatedCodingImage.gif"/>
+<img src="https://www.google.com/search?tbs=simg:CAQSgAEafgsQsIynCBpiCmAIAxIohAz1FoYXmheCF_1oLuwz2FvYQowz9Noc36yanNb8nhjaBN_142qjX_1NRowBhAyVPcwglyu0UDZPRLxDNvBpRbAcI6MWfKFRiTljlS-ElFwCvLUWEmNq4PB8XQkIAQMCxCOrv4IGgoKCAgBEgQny6xqDA&q=times+square&tbm=isch&sa=X&ved=2ahUKEwikr-PRu-r9AhUcT2wGHWbjAJEQwg56BAgREAE&biw=1116&bih=730&dpr=0.9#imgrc=Gql8n76CdpGvJM"/>
 <h1 align="center">Hi 👋, I'm Farhan Pandhre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" />
