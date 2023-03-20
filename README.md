@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farhan Pandhre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" />
+<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/5290005-Nerd-checks-the-email?utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Nerd%20checks%20the%20email%20%3A)&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Nerd%20checks%20the%20email%20%3A)&utm_medium=Social_Share
+)" align="right" alt="Coding" width="400" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanpandhre&label=Profile%20views&color=0e75b6&style=flat" alt="farhanpandhre" /> </p>
 
